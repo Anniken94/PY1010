@@ -23,4 +23,3 @@ Diff = Bensin - Elbil
 print("Årlige kostnader for elbil er", Elbil, "kr")
 print("Årlige kostnader for bensinbil er", Bensin, "kr")
 print(f"Det er {Diff:.2f} kr dyrere å kjøre bensinbil")
-print("Det er", Diff, "kr dyrere å kjøre bensinbil")
